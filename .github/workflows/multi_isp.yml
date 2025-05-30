@@ -1,0 +1,217 @@
+name: '多运营商IPTV源更新'
+
+on:
+  schedule:
+    - cron: '0 22,10 * * *'
+  workflow_dispatch:
+    inputs:
+      isp:
+        description: '选择运营商'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - default
+          - telecom
+          - unicom
+          - mobile
+
+jobs:
+  # 生成默认配置（不区分运营商）
+  update-default:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.isp == 'all' || github.event.inputs.isp == 'default' }}
+    steps:
+      - name: Set branch name
+        run: echo "BRANCH_NAME=master" >> $GITHUB_ENV
+      
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ env.BRANCH_NAME }}
+          clean: true
+      
+      - name: Run with setup-python 3.13
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+          update-environment: true
+          cache: 'pipenv'
+      
+      - name: Check open_driver config
+        id: check_driver
+        run: |
+          echo "OPEN_DRIVER=$(python -c '
+          try:
+            from utils.config import config
+            open_driver = config.open_driver
+          except:
+            open_driver = False
+          print(open_driver)')" >> $GITHUB_ENV
+      
+      - name: Set up Chrome
+        if: env.OPEN_DRIVER == 'True'
+        uses: browser-actions/setup-chrome@latest
+        with:
+          chrome-version: stable
+      
+      - name: Download chrome driver
+        if: env.OPEN_DRIVER == 'True'
+        uses: nanasess/setup-chromedriver@master
+      
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      
+      - name: Install pipenv
+        run: pip3 install --user pipenv
+      
+      - name: Install dependencies
+        run: pipenv --python 3.13 && pipenv install --deploy
+      
+      - name: Install selenium
+        if: env.OPEN_DRIVER == 'True'
+        run: pipenv install selenium
+      
+      - name: Reset ISP config
+        run: |
+          # 设置默认运营商为"移动,联通,电信"
+          sed -i "s/^isp =.*/isp = 移动,联通,电信/" config/user_config.ini
+          sed -i "s/^final_file =.*/final_file = output\/user_result.txt/" config/user_config.ini
+          
+          echo "已设置默认配置（运营商: 移动,联通,电信）"
+      
+      - name: Update
+        run: pipenv run dev
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/user_result.txt output/user_result.m3u || true
+          if ! git diff --staged --quiet; then
+            git commit -m "自动更新 IPTV源（默认配置：移动,联通,电信）"
+            git push
+          fi
+
+  # 生成各个运营商的配置
+  update-isp:
+    needs: update-default
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - isp: telecom
+            name: 电信
+          - isp: unicom
+            name: 联通
+          - isp: mobile
+            name: 移动
+      fail-fast: false
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.isp == 'all' || github.event.inputs.isp == matrix.isp }}
+    
+    steps:
+      - name: Set branch name
+        run: echo "BRANCH_NAME=master" >> $GITHUB_ENV
+      
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ env.BRANCH_NAME }}
+          clean: true
+          fetch-depth: 0
+      
+      - name: Run with setup-python 3.13
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.13'
+          update-environment: true
+          cache: 'pipenv'
+      
+      - name: Check open_driver config
+        id: check_driver
+        run: |
+          echo "OPEN_DRIVER=$(python -c '
+          try:
+            from utils.config import config
+            open_driver = config.open_driver
+          except:
+            open_driver = False
+          print(open_driver)')" >> $GITHUB_ENV
+      
+      - name: Set up Chrome
+        if: env.OPEN_DRIVER == 'True'
+        uses: browser-actions/setup-chrome@latest
+        with:
+          chrome-version: stable
+      
+      - name: Download chrome driver
+        if: env.OPEN_DRIVER == 'True'
+        uses: nanasess/setup-chromedriver@master
+      
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      
+      - name: Install pipenv
+        run: pip3 install --user pipenv
+      
+      - name: Install dependencies
+        run: pipenv --python 3.13 && pipenv install --deploy
+      
+      - name: Install selenium
+        if: env.OPEN_DRIVER == 'True'
+        run: pipenv install selenium
+      
+      - name: Update ISP config
+        run: |
+          # 只修改ISP和输出文件路径
+          sed -i "s/^isp =.*/isp = ${{ matrix.name }}/" config/user_config.ini
+          sed -i "s/^final_file =.*/final_file = output\/${{ matrix.isp }}_result.txt/" config/user_config.ini
+          
+          echo "已更新 ${{ matrix.name }} 运营商配置"
+      
+      - name: Update
+        run: pipenv run dev
+      
+      - name: Handle M3U file
+        run: |
+          # 处理M3U文件 - 检查所有可能的位置
+          M3U_FILE="output/${{ matrix.isp }}_result.m3u"
+          TXT_BASE=$(basename "output/${{ matrix.isp }}_result.txt" .txt)
+          M3U_POSSIBLE_PATHS=(
+            "output/${{ matrix.isp }}_result.m3u"
+            "output/user_result.m3u"
+            "output/${TXT_BASE}.m3u"
+          )
+          
+          # 检查文件是否已存在
+          if [ -f "$M3U_FILE" ]; then
+            echo "M3U文件已存在: $M3U_FILE"
+          else
+            # 尝试查找其他可能的M3U文件
+            for path in "${M3U_POSSIBLE_PATHS[@]}"; do
+              if [ -f "$path" ] && [ "$path" != "$M3U_FILE" ]; then
+                echo "复制M3U文件: $path -> $M3U_FILE"
+                cp "$path" "$M3U_FILE"
+                break
+              fi
+            done
+            
+            # 检查是否找到并复制了M3U文件
+            if [ ! -f "$M3U_FILE" ]; then
+              echo "警告: 未找到可用的M3U文件，创建空文件"
+              touch "$M3U_FILE"
+            fi
+          fi
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # 先拉取最新更改以避免冲突
+          git pull --rebase
+          
+          git add output/${{ matrix.isp }}_result.txt output/${{ matrix.isp }}_result.m3u || true
+          if ! git diff --staged --quiet; then
+            git commit -m "自动更新 ${{ matrix.name }} 运营商IPTV源"
+            git push
+          fi 
