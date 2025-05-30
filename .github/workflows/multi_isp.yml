@@ -2,7 +2,7 @@ name: '多运营商IPTV源更新'
 
 on:
   schedule:
-    - cron: '0 22,10 * * *'
+    - cron: '0 21,9 * * *'
   workflow_dispatch:
     inputs:
       isp:
