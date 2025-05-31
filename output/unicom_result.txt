@@ -125,4 +125,4 @@ CCTV-17,http://nas.suntao.online:35455/itv/1000000005000265015.m3u8?cdn=ystenliv
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🕘️更新时间,#genre#
-2025-05-31 05:24:31,http://nas.suntao.online:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
+2025-05-31 17:25:17,http://nas.suntao.online:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
