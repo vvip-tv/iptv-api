@@ -6,9 +6,10 @@ CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5,http://qjrhc.jydjd.top:2911/udp/224.1.100.82:11111
+CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-5+,http://124.220.159.96:35455/mgtv/641886773.m3u8
 CCTV-6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV-7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
@@ -21,6 +22,8 @@ CCTV-11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV-12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
 CCTV-13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
 CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+CCTV-14,http://222.134.245.16:9901/tsfile/live/0014_1.m3u8
+CCTV-14,http://1.24.190.98:10080/hls/14/index.m3u8
 CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
@@ -45,6 +48,8 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -63,8 +68,8 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
@@ -103,6 +108,8 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 新动漫,rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
@@ -115,4 +122,4 @@ CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🕘️更新时间,#genre#
-2025-06-23 18:13:06,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+2025-06-24 06:11:21,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
