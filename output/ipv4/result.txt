@@ -1,5 +1,4 @@
 📺央视频道,#genre#
-CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 💰央视付费频道,#genre#
@@ -8,34 +7,25 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-重庆卫视,http://222.218.122.23:8188/udp/239.81.0.47:4056
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-新疆卫视,http://1.180.2.93:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://222.218.122.23:8188/udp/239.81.0.46:4056
-新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-新疆卫视,http://113.26.202.52:1299/tsfile/live/0110_1.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-新疆卫视,http://221.2.148.205:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://113.25.252.226:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://live.wjyanghu.com/live/CH1.m3u8
-云南卫视,http://222.218.122.23:8188/udp/239.81.0.45:4056
 
 🎵音乐频道,#genre#
 斗鱼音乐MV频道,http://zzy789.xyz/douyu1.php?id=3870925
 
 🐟斗鱼影剧,#genre#
-斗鱼电影HD1,http://zzy789.xyz/douyu1.php?id=4246519
 斗鱼电影HD4,http://zzy789.xyz/douyu1.php?id=85894
+斗鱼电影HD7,http://zzy789.xyz/douyu1.php?id=20415
 斗鱼电视剧HD6,http://zzy789.xyz/douyu1.php?id=431460
 斗鱼电视剧4,http://zzy789.xyz/douyu1.php?id=4290711
 斗鱼电视剧8,http://zzy789.xyz/douyu1.php?id=5261342
 斗鱼电视剧12,http://zzy789.xyz/douyu1.php?id=4373285
+斗鱼电视剧13,http://zzy789.xyz/douyu1.php?id=3439096
 斗鱼电视剧22,http://zzy789.xyz/douyu1.php?id=10297898
 斗鱼电视剧25,http://zzy789.xyz/douyu1.php?id=7623292
 
 🕘️更新时间,#genre#
-2025-09-10 06:18:01,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025-09-10 18:22:17,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
