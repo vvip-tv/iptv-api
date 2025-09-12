@@ -1,18 +1,9 @@
 📺央视频道,#genre#
-CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv
-CCTV-3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv
+CCTV-1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv
-CCTV-5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv
-CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv
-CCTV-7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv
-CCTV-8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv
-CCTV-9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv
-CCTV-10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv
-CCTV-11,http://218.17.33.178:53290/tsfile/live/1011_1.m3u8?key=txiptv
-CCTV-13,http://218.17.33.178:53290/tsfile/live/1013_1.m3u8?key=txiptv
-CCTV-14,http://218.17.33.178:53290/tsfile/live/1014_1.m3u8?key=txiptv
-CCTV-15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
+CCTV-5+,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8?key=txiptv
+CCTV-12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv
+CCTV-17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv
 
 💰央视付费频道,#genre#
 
@@ -20,26 +11,13 @@ CCTV-15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://218.17.33.178:53290/tsfile/live/0124_1.m3u8?key=txiptv
-湖南卫视,http://218.17.33.178:53290/tsfile/live/0128_1.m3u8?key=txiptv
-湖北卫视,http://218.17.33.178:53290/tsfile/live/0132_1.m3u8?key=txiptv
-甘肃卫视,http://218.17.33.178:53290/tsfile/live/0141_1.m3u8?key=txiptv
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://lxajh.top/tv/hn.php?id=hnws
-江西卫视,http://218.17.33.178:53290/tsfile/live/0138_1.m3u8?key=txiptv
-辽宁卫视,http://218.17.33.178:53290/tsfile/live/0121_1.m3u8?key=txiptv
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-山东卫视,http://218.17.33.178:53290/tsfile/live/0131_1.m3u8?key=txiptv
-新疆卫视,http://1.180.2.93:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://222.218.122.23:8188/udp/239.81.0.46:4056
-新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-新疆卫视,http://113.26.202.52:1299/tsfile/live/0110_1.m3u8
+内蒙古卫视,http://218.17.33.178:53290/tsfile/live/0109_1.m3u8?key=txiptv
+新疆卫视,http://218.17.33.178:53290/tsfile/live/0110_1.m3u8?key=txiptv
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-新疆卫视,http://113.25.252.226:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://221.2.148.205:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://live.wjyanghu.com/live/CH1.m3u8
 
 🎵音乐频道,#genre#
 斗鱼音乐MV频道,http://zzy789.xyz/douyu1.php?id=3870925
@@ -52,9 +30,8 @@ CCTV-15,http://218.17.33.178:53290/tsfile/live/1015_1.m3u8?key=txiptv
 斗鱼电视剧1,http://zzy789.xyz/douyu1.php?id=299854
 斗鱼电视剧4,http://zzy789.xyz/douyu1.php?id=4290711
 斗鱼电视剧8,http://zzy789.xyz/douyu1.php?id=5261342
-斗鱼电视剧13,http://zzy789.xyz/douyu1.php?id=3439096
+斗鱼电视剧12,http://zzy789.xyz/douyu1.php?id=4373285
 斗鱼电视剧22,http://zzy789.xyz/douyu1.php?id=10297898
-斗鱼电视剧25,http://zzy789.xyz/douyu1.php?id=7623292
 
 🕘️更新时间,#genre#
-2025-09-12 06:19:36,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv
+2025-09-12 18:20:03,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
