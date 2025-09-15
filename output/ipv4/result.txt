@@ -1,32 +1,44 @@
 📺央视频道,#genre#
-CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-7,http://223.241.247.214:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://123.129.70.178:9901/tsfile/live/0013_1.m3u8
-CCTV-15,http://113.25.252.226:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://60.29.124.66:6080/hls/15/index.m3u8
+CCTV-6,http://zzssw01.55555.io:9901/tsfile/live/0006_1.m3u8
+CCTV-9,http://124.116.183.146:9901/tsfile/live/0009_1.m3u8
+CCTV-10,http://124.116.183.146:9901/tsfile/live/0010_1.m3u8
+CCTV-11,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+广东卫视,http://223.241.247.214:9901/tsfile/live/1011_1.m3u8
+广东卫视,http://124.116.183.146:9901/tsfile/live/0125_1.m3u8
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-重庆卫视,http://116.128.242.83:9901/tsfile/live/1011_1.m3u8
+湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
+北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
+北京卫视,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8
+湖北卫视,http://223.241.247.214:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://112.27.235.94:8000/hls/41/index.m3u8
+安徽卫视,http://61.184.46.85:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
+重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
+重庆卫视,http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
+东方卫视,http://113.15.109.216:59901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
+甘肃卫视,http://223.241.247.214:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://223.241.247.214:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8
-四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://218.17.33.178:53290/tsfile/live/0110_1.m3u8?key=txiptv
-新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
-新疆卫视,http://222.218.122.23:8188/udp/239.81.0.46:4056
+河南卫视,http://113.15.109.216:59901/tsfile/live/0139_1.m3u8
+吉林卫视,http://113.15.109.216:59901/tsfile/live/0116_1.m3u8
+辽宁卫视,http://223.241.247.214:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://60.174.40.117:85/tsfile/live/1033_1.m3u8?key=txiptv
+宁夏卫视,http://113.15.109.216:59901/tsfile/live/0112_1.m3u8
+青海卫视,http://zqh2333.top:2222/rtp/239.93.24.192:5140
+青海卫视,http://113.15.109.216:59901/tsfile/live/0140_1.m3u8
+山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-新疆卫视,http://222.169.85.8:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://1.180.2.93:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://113.26.202.52:1299/tsfile/live/0110_1.m3u8
-新疆卫视,http://113.25.252.226:9901/tsfile/live/0110_1.m3u8
-新疆卫视,http://live.wjyanghu.com/live/CH1.m3u8
+云南卫视,http://183.131.246.250:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 
 🎵音乐频道,#genre#
 斗鱼音乐MV频道,http://zzy789.xyz/douyu1.php?id=3870925
@@ -44,4 +56,4 @@ CCTV-15,http://113.25.252.226:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 斗鱼电视剧25,http://zzy789.xyz/douyu1.php?id=7623292
 
 🕘️更新时间,#genre#
-2025-09-15 06:18:37,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8
+2025-09-15 18:22:30,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
