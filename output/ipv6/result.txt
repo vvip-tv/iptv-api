@@ -35,6 +35,7 @@ CCTV-11,https://stream1.freetv.fun/522d8760b9c0e8172aefbf6b1aac7030daf6f613fabce
 CCTV-12,https://migu.188766.xyz/?migutoken=1a883911de72472e4761c21e998bfdcd&id=CCTV12&pp=1
 CCTV-12,http://free.cnlive.club/channel/13604deb/index.m3u8?q=1756862022054
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://112.27.235.94:8000/hls/14/index.m3u8#http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-13,https://stream1.freetv.fun/5faa47be190587cc85b9a83523c5bff88b5440ff623beb37d113818557a34903.m3u8
 CCTV-13,http://free.cnlive.club/channel/n4fe72c8e/index.m3u8?q=1756862022054
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
@@ -69,6 +70,7 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1756862022054
 北京卫视,https://stream1.freetv.fun/786bf920787f92216b3f39c74879c122dbb5dfe0f0d4082b5f43fdf3c8a75474.m3u8
 北京卫视,https://www.btime.com/btv/btvsy_index?tag=0
 北京卫视,https://migu.188766.xyz/?migutoken=482549897cbf78c3aa299e0ec0b3166a&id=bjws&type=sz
+北京卫视,http://cc02.tv12.xyz/1.m3u8
 湖北卫视,https://migu.188766.xyz/?migutoken=d70449beb60b2f2a4f8d9b1d971a08c8&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
 湖北卫视,https://news.hbtv.com.cn/app/tv/431
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
@@ -82,6 +84,7 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1756862022054
 东方卫视,https://migu.188766.xyz/?migutoken=fbe012d26536e0d8ba0f6e3effdb0bc6&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&pp=1
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226050/index.m3u8
 东南卫视,https://stream1.freetv.fun/aec96cccdb2b6747a2847037fe2551e76bf9cade4e7147da751a523a332bb390.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://112.27.235.94:8000/hls/38/index.m3u8#http://iptv.huuc.edu.cn/hls/dnhd.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
@@ -94,6 +97,7 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1756862022054
 河北卫视,https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7d5b01f9c0f335f3deb574a197a23e22&wsTime=1756972813
 河南卫视,https://stream1.freetv.fun/14c0efa0b69afff8af801b538a27a783845acdb87174717d8871a5fa9de187e0.m3u8
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8#http://1.94.31.214/php/hntv.php?id=hnws#http://222.169.85.8:9901/tsfile/live/0139_1.m3u8#http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,https://migu.188766.xyz/?migutoken=ae514bb1e2fc5fe5d7e4800aab179654&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
 吉林卫视,https://stream1.freetv.fun/c8a8b8a24ab802c58f26f0520dc40cf341fbd5811ce1ae9327f2c63e26e8fc28.m3u8
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
@@ -126,6 +130,7 @@ CCTV-17,http://free.cnlive.club/channel/9e11396/index.m3u8?q=1756862022054
 三沙卫视,https://stream1.freetv.fun/8bd6b69c423ac31e71c2311ad33f4f291e1314c69005ffb7b3b7defc2944adb2.m3u8
 天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
 天津卫视,https://migu.188766.xyz/?migutoken=e31d3b5f106d259a0f76d67642c3d475&id=tjws&type=sz
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏卫视,https://stream1.freetv.fun/a49e23e64df3f298107a73164d61744b12634287593fc849d504ba2918b3996d.m3u8
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=4a2dbffb2c7caaf4981b8ac3891a63be&time=68b91e59
 西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221225767/index.m3u8
@@ -141,4 +146,4 @@ CCTV-15,http://free.cnlive.club/channel/n4fe0755e/index.m3u8?q=1756862022054
 🐟斗鱼影剧,#genre#
 
 🕘️更新时间,#genre#
-2025-09-18 06:19:35,http://free.cnlive.club/channel/47cdbb52/index.m3u8?q=1756862022054
+2025-09-18 18:23:18,http://free.cnlive.club/channel/47cdbb52/index.m3u8?q=1756862022054

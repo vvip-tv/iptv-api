@@ -72,6 +72,8 @@ http://free.cnlive.club/channel/13604deb/index.m3u8?q=1756862022054
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
+https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://112.27.235.94:8000/hls/14/index.m3u8#http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://stream1.freetv.fun/5faa47be190587cc85b9a83523c5bff88b5440ff623beb37d113818557a34903.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://free.cnlive.club/channel/n4fe72c8e/index.m3u8?q=1756862022054
@@ -131,6 +133,8 @@ https://stream1.freetv.fun/786bf920787f92216b3f39c74879c122dbb5dfe0f0d4082b5f43f
 https://www.btime.com/btv/btvsy_index?tag=0
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 https://migu.188766.xyz/?migutoken=482549897cbf78c3aa299e0ec0b3166a&id=bjws&type=sz
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://cc02.tv12.xyz/1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 https://migu.188766.xyz/?migutoken=d70449beb60b2f2a4f8d9b1d971a08c8&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
@@ -158,6 +162,8 @@ https://zby.130519.xyz/PLTV/11/224/3221226050/index.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
 https://stream1.freetv.fun/aec96cccdb2b6747a2847037fe2551e76bf9cade4e7147da751a523a332bb390.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://112.27.235.94:8000/hls/38/index.m3u8#http://iptv.huuc.edu.cn/hls/dnhd.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
 https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
@@ -181,6 +187,8 @@ https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7d5b01f9c0f335f3deb574a197a23e22&wsTime=1756972813
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 https://stream1.freetv.fun/14c0efa0b69afff8af801b538a27a783845acdb87174717d8871a5fa9de187e0.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8#http://1.94.31.214/php/hntv.php?id=hnws#http://222.169.85.8:9901/tsfile/live/0139_1.m3u8#http://222.169.85.8:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 https://migu.188766.xyz/?migutoken=ae514bb1e2fc5fe5d7e4800aab179654&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
@@ -246,6 +254,8 @@ https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
 https://migu.188766.xyz/?migutoken=e31d3b5f106d259a0f76d67642c3d475&id=tjws&type=sz
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
+http://php.jdshipin.com:8880/xztv.php?id=ws
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 https://stream1.freetv.fun/a49e23e64df3f298107a73164d61744b12634287593fc849d504ba2918b3996d.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=4a2dbffb2c7caaf4981b8ac3891a63be&time=68b91e59
@@ -263,5 +273,5 @@ https://migu.188766.xyz/?migutoken=f195ba2e2eb58ed968fb59c1d058adc0&id=ynws&type
 https://migu.188766.xyz/?migutoken=06e6815c4f933aae55f00f89b84dc8dd&id=CCTV15&pp=1
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://free.cnlive.club/channel/n4fe0755e/index.m3u8?q=1756862022054
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-18 06:19:35
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-18 18:23:18
 http://free.cnlive.club/channel/47cdbb52/index.m3u8?q=1756862022054
