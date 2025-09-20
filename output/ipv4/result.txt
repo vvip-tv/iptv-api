@@ -4,25 +4,31 @@ CCTV-1,http://180.213.170.24:8188/rtp/239.5.1.4:5000
 CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
 CCTV-2,http://180.165.1.43:9898/rtp/239.45.3.208:5140
 CCTV-3,http://180.213.170.24:8188/rtp/239.5.1.101:5000
-CCTV-3,http://221.2.148.205:8154/tsfile/live/0003_1.m3u8
 CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 CCTV-4,http://180.213.170.24:8188/rtp/239.5.1.6:5000
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://180.213.170.24:8188/rtp/239.5.1.102:5000
+CCTV-5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8
 CCTV-5+,http://180.213.170.24:8188/rtp/239.5.1.7:5000
+CCTV-5+,http://61.156.228.12:8154/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://180.213.170.24:8188/rtp/239.5.1.103:5000
 CCTV-7,http://180.213.170.24:8188/rtp/239.5.1.8:5000
 CCTV-8,http://180.213.170.24:8188/rtp/239.5.1.104:5000
-CCTV-8,http://112.27.235.94:8000/hls/9/index.m3u8
+CCTV-9,http://p.ytelc.com/169l/0/cctv.php?id=cctv9
+CCTV-9,http://113.25.252.226:9901/tsfile/live/0009_1.m3u8
 CCTV-10,http://180.213.170.24:8188/rtp/239.5.1.10:5000
+CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 CCTV-11,http://180.213.170.24:8188/rtp/239.5.1.137:5000
 CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
+CCTV-12,http://112.132.10.54:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
 CCTV-13,http://180.213.170.24:8188/rtp/239.5.1.138:5000
-CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT
 CCTV-14,http://180.213.170.24:8188/rtp/239.5.1.12:5000
 CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,http://180.213.170.24:8188/rtp/239.5.1.139:5000
+CCTV-15,http://123.129.70.178:9901/tsfile/live/0015_1.m3u8
 CCTV-16,http://180.213.170.24:8188/rtp/239.5.1.146:5000
+CCTV-17,http://p.ytelc.com/169l/0/cctv.php?id=cctv17
 CCTV-17,http://180.213.170.24:8188/rtp/239.5.1.140:5000
 CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
@@ -34,26 +40,31 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 📡卫视频道,#genre#
 浙江卫视,http://8.138.7.223/tv/zjws.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://180.213.170.24:8188/rtp/239.5.1.14:5000
 湖南卫视,http://180.213.170.24:8188/rtp/239.5.1.16:5000
 湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
 湖北卫视,http://180.213.170.24:8188/rtp/239.5.1.20:5000
 重庆卫视,http://180.213.170.24:8188/rtp/239.5.1.47:5000
+东方卫视,http://iptv.zkbhj.com/tv/url/go?id=5807dd9aa7a50a68f5e3768116930afccc0f8547e764183236422572d6c3f85fc82774ab2cba0c3ab0060596ffb0adc68b159ebdfc0a79d0e46bdfab58d3819e
 东方卫视,http://180.213.170.24:8188/rtp/239.5.1.81:5000
 广西卫视,http://180.213.170.24:8188/rtp/239.5.1.110:5000
+广西卫视,http://221.2.148.205:8154/tsfile/live/0113_1.m3u8
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
 海南卫视,http://180.213.170.24:8188/rtp/239.5.1.111:5000
 河北卫视,http://180.213.170.24:8188/rtp/239.5.1.82:5000
 河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://180.213.170.24:8188/rtp/239.5.1.109:5000
-河南卫视,http://171.15.18.199:8180/TV00000000000000000016@HHZT
 江西卫视,http://180.213.170.24:8188/rtp/239.5.1.84:5000
-内蒙古卫视,http://123.130.84.106:8154/tsfile/live/0109_1.m3u8
-宁夏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.8:11111
+宁夏卫视,http://zqh2333.top:2222/rtp/239.93.24.247:5140
+山西卫视,http://fxgm.fxjf.work:19901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://123.130.84.106:8154/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://180.213.170.24:8188/rtp/239.5.1.22:5000
 深圳卫视,http://180.213.170.24:8188/rtp/239.5.1.19:5000
+天津卫视,http://221.2.148.205:8154/tsfile/live/0135_1.m3u8
 
 🪁动画频道,#genre#
 
@@ -66,10 +77,9 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 斗鱼电影HD7,http://zzy789.xyz/douyu1.php?id=20415
 斗鱼电视剧HD6,http://zzy789.xyz/douyu1.php?id=431460
 斗鱼电视剧1,http://zzy789.xyz/douyu1.php?id=299854
-斗鱼电视剧4,http://zzy789.xyz/douyu1.php?id=4290711
-斗鱼电视剧8,http://zzy789.xyz/douyu1.php?id=5261342
+斗鱼电视剧13,http://zzy789.xyz/douyu1.php?id=3439096
 斗鱼电视剧22,http://zzy789.xyz/douyu1.php?id=10297898
 斗鱼电视剧25,http://zzy789.xyz/douyu1.php?id=7623292
 
 🕘️更新时间,#genre#
-2025-09-20 06:20:23,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
+2025-09-20 18:19:22,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
