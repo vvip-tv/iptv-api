@@ -109,7 +109,6 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 东方卫视,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=202509190400388dd4f65e238243469d5d49c01fa3a175&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20250919040038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.89&SecurityKey=20250919040038&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=142ea4af8cf5171ec8a58e7d629163a3&ddCalcu=31a4e3216e11a0942a6fd87cef8551a781ce
 东方卫视,http://cdn.jdshipin.com/kkxw.php?id=1
 东南卫视,https://stream1.freetv.fun/aec96cccdb2b6747a2847037fe2551e76bf9cade4e7147da751a523a332bb390.m3u8
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://112.27.235.94:8000/hls/38/index.m3u8#http://120.76.248.139/live/bfgd/4200000483.m3u8#http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
 东南卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=202509190400391661a54fc2454d539f95290b5d93f015&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20250919040039&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=106.13.250.89&SecurityKey=20250919040039&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=fb5c8afb7dc8493768a90ab6b1e0b31e&ddCalcu=ef1be351bc9080ea1fbb67bdac0894a98367
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
@@ -193,4 +192,4 @@ CCTV-15,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.
 🐟斗鱼影剧,#genre#
 
 🕘️更新时间,#genre#
-2025-09-29 18:23:50,http://free.cnlive.club/channel/47cdbb52/index.m3u8?q=1756862022054
+2025-09-30 06:17:52,http://free.cnlive.club/channel/47cdbb52/index.m3u8?q=1756862022054
