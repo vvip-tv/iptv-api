@@ -1,11 +1,9 @@
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-广东卫视,http://61.184.46.85:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
@@ -24,8 +22,9 @@ CCTV-17,http://zqh2333.top:2222/rtp/239.93.24.92:5140
 斗鱼电视剧4,http://zzy789.xyz/douyu1.php?id=4290711
 斗鱼电视剧8,http://zzy789.xyz/douyu1.php?id=5261342
 斗鱼电视剧12,http://zzy789.xyz/douyu1.php?id=4373285
+斗鱼电视剧13,http://zzy789.xyz/douyu1.php?id=3439096
 斗鱼电视剧22,http://zzy789.xyz/douyu1.php?id=10297898
 斗鱼电视剧25,http://zzy789.xyz/douyu1.php?id=7623292
 
 🕘️更新时间,#genre#
-2025-10-04 06:18:02,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-04 18:18:12,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
