@@ -39,6 +39,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20251010140036fd315aa422c84a45970c08e4c554a5c0&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251010140036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.83&SecurityKey=20251010140036&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=40e3af7d06f4e04cdb55be5ae64cbaf1&ddCalcu=14f0eae1b38ca04f67eda056efb45e50b4dc
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=202510101400362f6e41069a674969863f2decb90f46a5&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251010140036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.83&SecurityKey=20251010140036&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=491e7e3393978b55ac5bf5e64834753c&ddCalcu=c439e5117e74703e834369e359f7b85bc5a5
 东方卫视,https://jzb.wwkejishe.top/?id=597
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
@@ -69,4 +70,4 @@ CCTV-15,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.
 🐟斗鱼影剧,#genre#
 
 🕘️更新时间,#genre#
-2025-10-10 14:13:43,https://migu.188766.xyz/?migutoken=56053b228701c8031b4439dcf43a962b&id=CCTV1&type=yy
+2025-10-10 14:20:25,https://migu.188766.xyz/?migutoken=56053b228701c8031b4439dcf43a962b&id=CCTV1&type=yy

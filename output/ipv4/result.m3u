@@ -278,8 +278,6 @@ http://genglei.8866.org:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authi
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://223.241.247.214:9901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://gaoyitv.6600.org:9901/tsfile/live/faacts/0124_2.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://112.132.10.54:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -743,5 +741,5 @@ http://61.156.228.12:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 http://zzy789.xyz/douyu1.php?id=3870925
 #EXTINF:-1 tvg-name="斗鱼电影HD4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼电影HD4.png" group-title="🐟斗鱼影剧",斗鱼电影HD4
 http://zzy789.xyz/douyu1.php?id=85894
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-10 14:13:43
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-10 14:20:25
 http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
