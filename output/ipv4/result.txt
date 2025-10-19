@@ -6,7 +6,6 @@ CCTV-1,http://111.8.224.6:9999/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&aut
 CCTV-1,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://61.156.228.12:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
 CCTV-2,http://112.27.235.94:8000/hls/2/index.m3u8#http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2#http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv
 CCTV-2,http://124.88.238.50:82/hls/2/index.m3u8
@@ -84,10 +83,10 @@ CCTV-10,http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv
 CCTV-10,http://124.116.183.146:9901/tsfile/live/0010_1.m3u8
 CCTV-10,http://171.15.18.199:8180/TV00000000000000000010@HHZT
-CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
 CCTV-10,http://112.132.10.54:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-10,http://111.8.224.6:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://61.156.228.12:8154/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://39.164.180.36:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-11,http://112.27.235.94:8000/hls/12/index.m3u8#http://60.16.0.216:5757/hls/12/index.m3u8
 CCTV-11,http://60.29.124.66:6080/hls/22/index.m3u8
 CCTV-11,http://113.26.202.52:1299/tsfile/live/0011_1.m3u8
@@ -175,7 +174,6 @@ CCTV-17,http://111.8.224.6:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&au
 安徽卫视,http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://124.88.238.50:82/hls/18/index.m3u8
 安徽卫视,http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
 安徽卫视,http://180.136.233.111:10099/udp/239.81.0.211:4056
 安徽卫视,http://60.16.0.216:5757/hls/31/index.m3u8
 重庆卫视,http://60.16.0.216:5757/hls/36/index.m3u8
@@ -193,7 +191,6 @@ CCTV-17,http://111.8.224.6:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&au
 东方卫视,http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://113.15.109.216:59901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://180.136.233.111:10099/udp/239.81.0.111:4056
-东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
 东南卫视,http://112.27.235.94:8000/hls/38/index.m3u8
 东南卫视,http://180.136.233.111:10099/udp/239.81.0.215:4056
 甘肃卫视,http://113.26.202.52:1299/tsfile/live/0141_1.m3u8
@@ -366,4 +363,4 @@ CCTV-15,http://61.156.228.12:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 斗鱼电影HD4,http://zzy789.xyz/douyu1.php?id=85894
 
 🕘️更新时间,#genre#
-2025-10-19 18:17:29,http://112.27.235.94:8000/hls/1/index.m3u8
+2025-10-20 06:18:14,http://112.27.235.94:8000/hls/1/index.m3u8
