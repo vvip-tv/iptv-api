@@ -21,6 +21,7 @@ CCTV-3,http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=
 CCTV-3,http://111.8.224.6:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://61.156.228.12:8154/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
 CCTV-4,http://112.27.235.94:8000/hls/4/index.m3u8
 CCTV-4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv
 CCTV-4,http://60.29.124.66:6080/hls/15/index.m3u8
@@ -48,11 +49,11 @@ CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv
 CCTV-6,http://112.27.235.94:8000/hls/7/index.m3u8#http://61.156.228.12:8154/tsfile/live/0006_1.m3u8
 CCTV-6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://124.116.183.146:9901/tsfile/live/0006_1.m3u8
+CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
 CCTV-6,http://180.136.233.111:10099/udp/239.81.0.233:4056
 CCTV-6,http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT
 CCTV-6,http://111.8.224.6:9999/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://61.156.228.12:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7,http://218.17.33.178:53290/tsfile/live/1007_1.m3u8?key=txiptv
 CCTV-7,http://8.138.7.223/tv/cctv7.m3u8
 CCTV-7,http://60.29.124.66:6080/hls/18/index.m3u8
@@ -85,6 +86,7 @@ CCTV-9,http://39.164.180.36:19901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&
 CCTV-10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv
 CCTV-10,http://60.29.124.66:6080/hls/21/index.m3u8
 CCTV-10,http://124.116.183.146:9901/tsfile/live/0010_1.m3u8
+CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
 CCTV-10,http://171.15.18.199:8180/TV00000000000000000010@HHZT
 CCTV-10,http://111.8.224.6:9999/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://genglei.8866.org:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -387,4 +389,4 @@ CCTV-15,http://61.156.228.12:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 斗鱼电影HD1,http://zzy789.xyz/douyu1.php?id=4246519
 
 🕘️更新时间,#genre#
-2025-10-20 18:22:11,http://60.29.124.66:6080/hls/12/index.m3u8
+2025-10-21 06:19:16,http://60.29.124.66:6080/hls/12/index.m3u8
