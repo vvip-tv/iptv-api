@@ -129,7 +129,6 @@ CCTV-17,http://genglei.8866.org:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive
 广东卫视,http://124.116.183.146:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://219.145.59.166:8888/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://112.27.235.94:8000/hls/30/index.m3u8
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
 湖南卫视,http://124.116.183.146:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://111.221.137.155:44330/tsfile/live/0122_1.m3u8?key=txiptv
 湖南卫视,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
@@ -305,4 +304,4 @@ CCTV-15,http://genglei.8866.org:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive
 斗鱼电影HD1,http://zzy789.xyz/douyu1.php?id=4246519
 
 🕘️更新时间,#genre#
-2025-11-10 18:22:53,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8
+2025-11-11 06:25:06,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8
