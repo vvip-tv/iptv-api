@@ -320,4 +320,4 @@ CCTV-15,http://61.156.228.12:8154/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 斗鱼电影HD4,http://zzy789.xyz/douyu1.php?id=85894
 
 🕘️更新时间,#genre#
-2025-11-16 18:18:29,http://120.46.223.160/PHP/MG.php?id=608807420
+2025-11-17 06:17:48,http://120.46.223.160/PHP/MG.php?id=608807420
