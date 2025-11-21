@@ -173,7 +173,7 @@ Name: 河北卫视, URL: http://112.6.239.227:8207/hls/28/index.m3u8, From: subs
 Name: 河北卫视, URL: http://genglei.8866.org:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-内蒙古-赤峰, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河北卫视, URL: http://112.27.235.94:8000/hls/39/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-安徽, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河北卫视, URL: http://61.184.46.85:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0, From: subscribe, IPv_Type: ipv4, Location: 中国-湖北-荆州, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 河南卫视, URL: http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=9ce5bac9878dd423b69e0dda25547631&wsTime=1763733624, From: subscribe, IPv_Type: ipv6, Location: 加拿大, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6cf3708318361e5f5144d030d3d100b6&wsTime=1763776812, From: subscribe, IPv_Type: ipv6, Location: 加拿大, ISP: , Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 河南卫视, URL: https://live.chinacert.cftest5.cn/mg/?id=790187291, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 河南卫视, URL: http://112.6.239.227:8207/hls/31/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 河南卫视, URL: http://cssbyd.imwork.net:8082/hls/37/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-湖南-长沙, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
@@ -246,7 +246,7 @@ Name: 深圳卫视, URL: http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8, From
 Name: 三沙卫视, URL: https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 三沙卫视, URL: https://migu.188766.xyz/?migutoken=0f9917d89be760f56f92272735be3b69&id=hn_ssws&type=sz, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 0.1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 三沙卫视, URL: http://nn.7x9d.cn/地方台8563/海南.php?id=ssws, From: subscribe, IPv_Type: ipv4, Location: 中国-江苏-宿迁, ISP: 七星云BGP数据中心, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 三沙卫视, URL: https://srs.ssws.tv/video/sstv-10/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 联通, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 三沙卫视, URL: https://srs.ssws.tv/video/sstv-10/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-广东, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 天津卫视, URL: http://112.6.239.227:8207/hls/18/index.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-山东, ISP: 移动, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 天津卫视, URL: http://124.116.183.146:9901/tsfile/live/0135_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-陕西-咸阳, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 天津卫视, URL: http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8, From: subscribe, IPv_Type: ipv4, Location: 中国-海南, ISP: 电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
