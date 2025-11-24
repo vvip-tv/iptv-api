@@ -139,10 +139,10 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17
 广东卫视,http://223.241.247.214:9901/tsfile/live/1011_1.m3u8
 广东卫视,https://live.chinacert.cftest5.cn/mg/?id=608831231
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://112.6.239.227:8207/hls/16/index.m3u8
 浙江卫视,http://58.17.116.69:9903/tsfile/live/0124_2.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 湖南卫视,http://58.17.116.69:9903/tsfile/live/0128_2.m3u8?key=txiptv&playlive=0&authid=0
 湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -226,7 +226,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
 河南卫视,http://112.6.239.227:8207/hls/31/index.m3u8
 河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=792fa9c0b4aa1f4f3c5e2448293a14aa&wsTime=1763992896
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=cfb75b3fd73d42c288b72d48dcb04436&wsTime=1764036013
 吉林卫视,http://112.6.239.227:8207/hls/30/index.m3u8
 吉林卫视,http://genglei.8866.org:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://221.2.148.205:8154/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -351,4 +351,4 @@ CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15
 斗鱼音乐MV频道,http://zzy789.xyz/douyu1.php?id=3870925
 
 🕘️更新时间,#genre#
-2025-11-24 18:22:44,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
+2025-11-25 06:18:53,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8

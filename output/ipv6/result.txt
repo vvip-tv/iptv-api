@@ -38,7 +38,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17
 📡卫视频道,#genre#
 广东卫视,https://live.chinacert.cftest5.cn/mg/?id=608831231
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E5%8F%B0
 湖北卫视,https://live.chinacert.cftest5.cn/mg/?id=947472496
@@ -56,7 +55,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 海南卫视,https://migu.188766.xyz/?migutoken=6acd3849c4fdc70a2be6dd51650ac6b2&id=hn_hnws&type=sz
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=792fa9c0b4aa1f4f3c5e2448293a14aa&wsTime=1763992896
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=cfb75b3fd73d42c288b72d48dcb04436&wsTime=1764036013
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 江苏卫视,https://live.chinacert.cftest5.cn/mg/?id=623899368
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -89,4 +88,4 @@ CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15
 CCTV-15,https://migu.188766.xyz/?migutoken=a00d129be71fa3c835bc447de2341285&id=CCTV15&type=yy
 
 🕘️更新时间,#genre#
-2025-11-24 18:22:44,https://live.chinacert.cftest5.cn/mg/?id=608807420
+2025-11-25 06:18:53,https://live.chinacert.cftest5.cn/mg/?id=608807420
