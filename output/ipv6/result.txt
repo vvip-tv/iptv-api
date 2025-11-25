@@ -44,7 +44,7 @@ CCTV-17,https://migu.188766.xyz/?migutoken=0e2d764b967a0934bd17336a0b2ddc41&id=C
 海南卫视,https://live.chinacert.cftest5.cn/mg/?id=947472502
 海南卫视,https://migu.188766.xyz/?migutoken=6acd3849c4fdc70a2be6dd51650ac6b2&id=hn_hnws&type=sz
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a8f27449586a06b30ce50736dbbafbaa&wsTime=1764079223
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7eaf806c66a0d91743eacc9a164edaa7&wsTime=1764122406
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://live.chinacert.cftest5.cn/mg/?id=790187291
 河南卫视,https://migu.188766.xyz/?migutoken=adcbbcb709bae0e3f03f37a060328cc3&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
@@ -68,4 +68,4 @@ CCTV-15,https://migu.188766.xyz/?migutoken=a00d129be71fa3c835bc447de2341285&id=C
 🐟斗鱼影剧,#genre#
 
 🕘️更新时间,#genre#
-2025-11-25 18:23:01,https://live.chinacert.cftest5.cn/mg/?id=608807420
+2025-11-26 06:19:36,https://live.chinacert.cftest5.cn/mg/?id=608807420

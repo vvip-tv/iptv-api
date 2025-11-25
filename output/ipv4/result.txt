@@ -332,4 +332,4 @@ CCTV-15,http://genglei.8866.org:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive
 斗鱼电影HD1,http://zzy789.xyz/douyu1.php?id=4246519
 
 🕘️更新时间,#genre#
-2025-11-25 18:23:01,http://112.6.239.227:8207/hls/1/index.m3u8
+2025-11-26 06:19:36,http://112.6.239.227:8207/hls/1/index.m3u8
