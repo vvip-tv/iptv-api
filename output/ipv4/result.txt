@@ -269,4 +269,4 @@ CCTV-15,http://113.25.252.226:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1
 斗鱼音乐MV频道,http://zzy789.xyz/douyu1.php?id=3870925
 
 🕘️更新时间,#genre#
-2025-12-03 18:23:54,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2025-12-04 06:21:10,http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
