@@ -25,7 +25,6 @@ CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 
 📡卫视频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
 东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
@@ -33,7 +32,7 @@ CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 海南卫视,https://migu.188766.xyz/?migutoken=a62eb7ca847459e2a582c235abd8b0d1&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=bede5dd887f5e218e795edea1302263a&wsTime=1764856841
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=26ff4cd69282dde255258a1b861fb853&wsTime=1764900018
 河南卫视,https://migu.188766.xyz/?migutoken=54cf038be1d704b56b80dd18cb8c9434&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
 吉林卫视,https://migu.188766.xyz/?migutoken=51f4bcaf2648feeff5af8038b55b2140&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
@@ -51,4 +50,4 @@ CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 🐟斗鱼影剧,#genre#
 
 🕘️更新时间,#genre#
-2025-12-04 18:24:09,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
+2025-12-05 06:17:25,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8

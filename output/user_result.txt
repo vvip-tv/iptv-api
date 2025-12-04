@@ -206,7 +206,7 @@ CCTV-17,http://genglei.8866.org:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://61.156.228.12:8154/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=bede5dd887f5e218e795edea1302263a&wsTime=1764856841
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=26ff4cd69282dde255258a1b861fb853&wsTime=1764900018
 河南卫视,https://migu.188766.xyz/?migutoken=54cf038be1d704b56b80dd18cb8c9434&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
 吉林卫视,http://cssbyd.imwork.net:8082/hls/41/index.m3u8
 吉林卫视,http://112.6.239.227:8207/hls/30/index.m3u8
@@ -333,4 +333,4 @@ CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 斗鱼电影HD4,http://zzy789.xyz/douyu1.php?id=85894
 
 🕘️更新时间,#genre#
-2025-12-04 18:24:09,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
+2025-12-05 06:17:25,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
