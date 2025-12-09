@@ -314,4 +314,4 @@ CCTV-15,http://genglei.8866.org:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive
 斗鱼音乐MV频道,http://zzy789.xyz/douyu1.php?id=3870925
 
 🕘️更新时间,#genre#
-2025-12-09 18:25:09,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
+2025-12-10 06:20:05,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv
