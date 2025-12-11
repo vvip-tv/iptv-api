@@ -180,4 +180,4 @@ CCTV-15,http://genglei.8866.org:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive
 斗鱼电影HD4,http://zzy789.xyz/douyu1.php?id=85894
 
 🕘️更新时间,#genre#
-2025-12-11 18:23:47,http://play.kankanlive.com/live/1698234869325962.m3u8
+2025-12-12 06:20:32,http://play.kankanlive.com/live/1698234869325962.m3u8
