@@ -42,7 +42,7 @@ CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16
 贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86%E5%8F%B0
 海南卫视,https://migu.188766.xyz/?migutoken=5fe506dbaa5bdc14d8c29465d360cbd7&id=hn_hnws&type=sz
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c257f8f68421746b8964f86c2f60f9f3&wsTime=1766844045
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1cd4f02da4aac7cbbf24d00120ceca1d&wsTime=1766887231
 江苏卫视,https://migu.188766.xyz/?migutoken=817ce1c50e95bcad73a290a7012c6a92&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
 辽宁卫视,https://migu.188766.xyz/?migutoken=e201b71c2f80a5119353e9330ed8d006&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
@@ -62,4 +62,4 @@ CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15
 🐟斗鱼影剧,#genre#
 
 🕘️更新时间,#genre#
-2025-12-27 18:19:55,https://iptv.catvod.com/live.php?id=CCTV-1
+2025-12-28 06:19:20,https://iptv.catvod.com/live.php?id=CCTV-1
