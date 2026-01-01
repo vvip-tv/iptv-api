@@ -28,7 +28,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
 海南卫视,https://migu.188766.xyz/?migutoken=10c99090273c28e9762594ea59a3204d&id=hn_hnws&type=sz
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=552c2268c474b23114a74afddc947aa1&wsTime=1767276051
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=33517fca797be63c53ffbd11da072b1e&wsTime=1767319228
 内蒙古卫视,https://migu.188766.xyz/?migutoken=2c980d829ba5c504db89602dffb34d09&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
 三沙卫视,https://migu.188766.xyz/?migutoken=e6ec8a9b2d79a2c5cefcb24ae4586b8a&id=hn_ssws&type=sz
@@ -40,4 +40,4 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17
 🎵音乐频道,#genre#
 
 🕘️更新时间,#genre#
-2026-01-01 18:22:34,https://iptv.catvod.com/live.php?id=CCTV-1
+2026-01-02 06:19:59,https://iptv.catvod.com/live.php?id=CCTV-1
