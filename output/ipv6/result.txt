@@ -29,7 +29,7 @@ CCTV-17,https://migu.188766.xyz/?migutoken=ad091f0d34648a5911882a19a16f55e9&id=C
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
 海南卫视,https://migu.188766.xyz/?migutoken=5b55e12ae199fcc8ef344d0bbbc006bf&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e3721a71698c43a0bd9c36c816925855&wsTime=1767362460
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=57df2c27eb8acb047618fd0c4573de96&wsTime=1767405624
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 辽宁卫视,https://migu.188766.xyz/?migutoken=01b58142989fa72f265dad29d1fe3960&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
 内蒙古卫视,https://migu.188766.xyz/?migutoken=6c57a377754b4e1cb6f2b5a6fe392591&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
@@ -44,4 +44,4 @@ CCTV-17,https://migu.188766.xyz/?migutoken=ad091f0d34648a5911882a19a16f55e9&id=C
 🎵音乐频道,#genre#
 
 🕘️更新时间,#genre#
-2026-01-02 18:21:29,https://iptv.catvod.com/live.php?id=CCTV-1
+2026-01-03 06:20:35,https://iptv.catvod.com/live.php?id=CCTV-1
