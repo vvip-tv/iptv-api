@@ -1,43 +1,47 @@
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV-1
 CCTV-2,https://iptv.catvod.com/live.php?id=CCTV-2
-CCTV-3,https://iptv.catvod.com/live.php?id=CCTV-3
-CCTV-4,https://migu.188766.xyz/?migutoken=fd3e9db5d50b3d22829202f477a7de88&id=CCTV4&type=yy
-CCTV-4,https://iptv.catvod.com/live.php?id=CCTV-4
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV-5plus
-CCTV-7,https://migu.188766.xyz/?migutoken=fc0845ff2f5a0c9ca3f89188024e7e56&id=CCTV7&type=yy
+CCTV-4,https://migu.188766.xyz/?migutoken=bf654c88023b1c57c8e91c4b08eb2ed6&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV-5
+CCTV-6,https://iptv.catvod.com/live.php?id=CCTV-6
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV-8
-CCTV-10,https://migu.188766.xyz/?migutoken=52db7d2641e1ede637b63c25ef599ee7&id=CCTV10&type=yy
+CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10
+CCTV-11,https://iptv.catvod.com/live.php?id=CCTV-11
 CCTV-12,https://migu.188766.xyz/?migutoken=8f2ed6528837227bdc8b9ea41c1f3e45&id=CCTV12&type=yy
-CCTV-12,https://iptv.catvod.com/live.php?id=CCTV-12
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-14,https://migu.188766.xyz/?migutoken=11190fea39c4d916824dc79d77e71389&id=CCTV14&type=yy
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14
+CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
+CCTV-14,https://migu.188766.xyz/?migutoken=3b8abf5d15a7d058ea1d5ffdbf99942d&id=CCTV14&type=yy
+CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16
 CCTV-17,https://migu.188766.xyz/?migutoken=ad091f0d34648a5911882a19a16f55e9&id=CCTV17&type=yy
-CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17
 
 💰央视付费频道,#genre#
-第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+北京卫视,https://migu.188766.xyz/?migutoken=06fbfd752dea31b767d728cc31e879fb&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+湖北卫视,https://migu.188766.xyz/?migutoken=7015216258c1817f25c2d8c1388cc1fb&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+东方卫视,https://migu.188766.xyz/?migutoken=651a0f3b442dfdb7243321c856255d4d&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
-甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
+甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
-广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-海南卫视,https://migu.188766.xyz/?migutoken=10c99090273c28e9762594ea59a3204d&id=hn_hnws&type=sz
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=33517fca797be63c53ffbd11da072b1e&wsTime=1767319228
-内蒙古卫视,https://migu.188766.xyz/?migutoken=2c980d829ba5c504db89602dffb34d09&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-三沙卫视,https://migu.188766.xyz/?migutoken=e6ec8a9b2d79a2c5cefcb24ae4586b8a&id=hn_ssws&type=sz
+广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
+海南卫视,https://migu.188766.xyz/?migutoken=5b55e12ae199fcc8ef344d0bbbc006bf&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e3721a71698c43a0bd9c36c816925855&wsTime=1767362460
+吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+辽宁卫视,https://migu.188766.xyz/?migutoken=01b58142989fa72f265dad29d1fe3960&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
+内蒙古卫视,https://migu.188766.xyz/?migutoken=6c57a377754b4e1cb6f2b5a6fe392591&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+青海卫视,https://migu.188766.xyz/?migutoken=c2fd26d0b08c505949bc76f9bde77085&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
+天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
-新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0
+新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
 
 🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
 
 🕘️更新时间,#genre#
-2026-01-02 06:19:59,https://iptv.catvod.com/live.php?id=CCTV-1
+2026-01-02 18:21:29,https://iptv.catvod.com/live.php?id=CCTV-1
