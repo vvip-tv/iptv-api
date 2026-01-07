@@ -6,14 +6,12 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 📡卫视频道,#genre#
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=645ea33ef113cb467843dd158fcdf813&wsTime=1767794345
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=98f3a3cbddc7b524bb13e90a7588c914&wsTime=1767837532
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-
-🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
 
 🐟斗鱼影剧,#genre#
 
 🕘️更新时间,#genre#
-2026-01-07 18:24:05,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+2026-01-08 06:20:39,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
