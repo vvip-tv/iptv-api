@@ -1,20 +1,13 @@
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-CCTV-5,https://iptv.catvod.com/live.php?id=CCTV-5
-CCTV-6,https://iptv.catvod.com/live.php?id=CCTV-6
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16
 
 📡卫视频道,#genre#
-广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
-湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ce49992d5138b3b9631349cb59215b81&wsTime=1767751195
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=645ea33ef113cb467843dd158fcdf813&wsTime=1767794345
+河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 
 🪁动画频道,#genre#
 
@@ -23,4 +16,4 @@ CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16
 🐟斗鱼影剧,#genre#
 
 🕘️更新时间,#genre#
-2026-01-07 06:21:00,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+2026-01-07 18:24:05,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
