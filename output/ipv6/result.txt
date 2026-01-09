@@ -38,7 +38,7 @@ CCTV-17,https://migu.188766.xyz/?migutoken=19ace71c88c516a6cb7d65a93f79549d&id=C
 东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 海南卫视,https://migu.188766.xyz/?migutoken=99940a486a13ff986a7daa86389be438&id=hn_hnws&type=sz
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=dbaa8b5b39fba5f1a0120b25c5319bf1&wsTime=1767967262
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4202f0de55e07ecd4ca5a0515b88ff7f&wsTime=1768010344
 内蒙古卫视,https://migu.188766.xyz/?migutoken=9b8bf23a6b0305f1f601cef0d8f9a3a1&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0
 青海卫视,https://migu.188766.xyz/?migutoken=5731039daf1ee84a49878f52a45c0535&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
@@ -56,4 +56,4 @@ CCTV-15,https://migu.188766.xyz/?migutoken=b2cde938e303c01065cb96d8f73e0ea7&id=C
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15
 
 🕘️更新时间,#genre#
-2026-01-09 18:23:11,https://migu.188766.xyz/?migutoken=4371c2719b6bb7ecd2d6902df987d55a&id=CCTV1&type=yy
+2026-01-10 06:20:54,https://migu.188766.xyz/?migutoken=4371c2719b6bb7ecd2d6902df987d55a&id=CCTV1&type=yy
