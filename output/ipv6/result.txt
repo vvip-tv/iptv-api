@@ -1,59 +1,46 @@
 📺央视频道,#genre#
 CCTV-1,https://migu.188766.xyz/?migutoken=4371c2719b6bb7ecd2d6902df987d55a&id=CCTV1&type=yy
-CCTV-2,https://iptv.catvod.com/live.php?id=CCTV2
+CCTV-2,https://migu.188766.xyz/?migutoken=bb758a8aaf58edf9913d991ef4277b47&id=CCTV2&type=yy
 CCTV-3,https://migu.188766.xyz/?migutoken=c5be86d4e28fc8a9699466514b6a2177&id=CCTV3&type=yy
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-CCTV-4,https://iptv.catvod.com/live.php?id=CCTV-4
-CCTV-4,https://migu.188766.xyz/?migutoken=8c1df4798163667cb832f4cc144757d3&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV-6,https://migu.188766.xyz/?migutoken=2087bc38fe5055f74547364310b62253&id=CCTV6&type=yy
-CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6
-CCTV-7,https://iptv.catvod.com/live.php?id=CCTV-7
-CCTV-7,https://migu.188766.xyz/?migutoken=0878594d1daf10dc5c810be1b68f9d95&id=CCTV7&type=yy
-CCTV-8,https://migu.188766.xyz/?migutoken=1a9f09eb2cf8f14848238c9dd9264cd8&id=CCTV8&type=yy
-CCTV-9,https://migu.188766.xyz/?migutoken=5d5c0fbe37e987b7a21e5be4a0f9dccb&id=CCTV9&type=yy
+CCTV-4,https://migu.188766.xyz/?migutoken=c905e6d0e63f25a36d023b418037e9d2&id=CCTV4&type=yy
+CCTV-6,https://migu.188766.xyz/?migutoken=c994c3cc0129252fe70dec5cedfb7f94&id=CCTV6&type=yy
+CCTV-7,https://migu.188766.xyz/?migutoken=4b139c9aa2b114f5f4972d91fa5f5711&id=CCTV7&type=yy
+CCTV-9,https://migu.188766.xyz/?migutoken=153de0a033a55c8ceaf6e039979599ef&id=CCTV9&type=yy
 CCTV-10,https://migu.188766.xyz/?migutoken=a18a479b60a85b83a6d48f84304ae093&id=CCTV10&type=yy
-CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10
-CCTV-11,https://iptv.catvod.com/live.php?id=CCTV-11
-CCTV-11,https://migu.188766.xyz/?migutoken=cf74138b7c9c7d4f9e75c54946611604&id=CCTV11&type=yy
-CCTV-12,https://iptv.catvod.com/live.php?id=CCTV-12
-CCTV-12,https://migu.188766.xyz/?migutoken=cb9b97258ece52ca4d2d5780f6ca25ab&id=CCTV12&type=yy
+CCTV-12,https://migu.188766.xyz/?migutoken=dad8424fa9e7b8f4817f5128ef909332&id=CCTV12&type=yy
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13
-CCTV-13,https://migu.188766.xyz/?migutoken=0e93d497b950c76d8fa9b1f412d914a7&id=CCTV13&type=yy
+CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135
-CCTV-14,https://migu.188766.xyz/?migutoken=66c1c133bc22a042755b4f0b35550b19&id=CCTV14&type=yy
-CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14
-CCTV-15,https://migu.188766.xyz/?migutoken=b2cde938e303c01065cb96d8f73e0ea7&id=CCTV15&type=yy
-CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15
-CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16
-CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17
-CCTV-17,https://migu.188766.xyz/?migutoken=19ace71c88c516a6cb7d65a93f79549d&id=CCTV17&type=yy
+CCTV-14,https://migu.188766.xyz/?migutoken=94e1700bb2b5bfef303bb4fc55e59f6a&id=CCTV14&type=yy
+CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
+CCTV-17,https://migu.188766.xyz/?migutoken=6f08cfcbe37719947f502f4732ab4fea&id=CCTV17&type=yy
 
 💰央视付费频道,#genre#
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
+广东卫视,https://migu.188766.xyz/?migutoken=5b2227e9e959fb2f15ee22adb0ee46bb&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-东南卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-海南卫视,https://migu.188766.xyz/?migutoken=99940a486a13ff986a7daa86389be438&id=hn_hnws&type=sz
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4202f0de55e07ecd4ca5a0515b88ff7f&wsTime=1768010344
-内蒙古卫视,https://migu.188766.xyz/?migutoken=9b8bf23a6b0305f1f601cef0d8f9a3a1&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0
-青海卫视,https://migu.188766.xyz/?migutoken=5731039daf1ee84a49878f52a45c0535&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
-山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
-三沙卫视,https://migu.188766.xyz/?migutoken=0fca381b45dcbe231c213167a3b87d94&id=hn_ssws&type=sz
-西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
+河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6532d02094dec35e321114babd42701c&wsTime=1768053664
+江西卫视,https://migu.188766.xyz/?migutoken=0e5b31fc301517f1aad3f40a3cabc820&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+内蒙古卫视,https://migu.188766.xyz/?migutoken=744d8cf3678c3ae4bfd36e6b9c40f815&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+陕西卫视,https://migu.188766.xyz/?migutoken=e4d9c7e0bee6c13ead948142f9f0ae78&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+三沙卫视,https://migu.188766.xyz/?migutoken=585f963ecccb283f359942608a820b7e&id=hn_ssws&type=sz
 西藏卫视,http://cdn.jdshipin.com:8880/xztv.php?id=ws
-新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 
 🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
-CCTV-15,https://migu.188766.xyz/?migutoken=b2cde938e303c01065cb96d8f73e0ea7&id=CCTV15&type=yy
-CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15
+
+🐟斗鱼影剧,#genre#
+斗鱼电影HD1,https://www.goodiptv.club/douyu/4246519
+斗鱼电影HD4,https://www.goodiptv.club/douyu/85894
 
 🕘️更新时间,#genre#
-2026-01-10 06:20:54,https://migu.188766.xyz/?migutoken=4371c2719b6bb7ecd2d6902df987d55a&id=CCTV1&type=yy
+2026-01-10 18:20:45,https://migu.188766.xyz/?migutoken=4371c2719b6bb7ecd2d6902df987d55a&id=CCTV1&type=yy
