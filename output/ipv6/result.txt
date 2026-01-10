@@ -26,7 +26,7 @@ CCTV-17,https://migu.188766.xyz/?migutoken=6f08cfcbe37719947f502f4732ab4fea&id=C
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6532d02094dec35e321114babd42701c&wsTime=1768053664
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=594e38d552dbdc86e351cd756b76b637&wsTime=1768096745
 江西卫视,https://migu.188766.xyz/?migutoken=0e5b31fc301517f1aad3f40a3cabc820&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 内蒙古卫视,https://migu.188766.xyz/?migutoken=744d8cf3678c3ae4bfd36e6b9c40f815&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 陕西卫视,https://migu.188766.xyz/?migutoken=e4d9c7e0bee6c13ead948142f9f0ae78&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
@@ -43,4 +43,4 @@ CCTV-17,https://migu.188766.xyz/?migutoken=6f08cfcbe37719947f502f4732ab4fea&id=C
 斗鱼电影HD4,https://www.goodiptv.club/douyu/85894
 
 🕘️更新时间,#genre#
-2026-01-10 18:20:45,https://migu.188766.xyz/?migutoken=4371c2719b6bb7ecd2d6902df987d55a&id=CCTV1&type=yy
+2026-01-11 06:20:12,https://migu.188766.xyz/?migutoken=4371c2719b6bb7ecd2d6902df987d55a&id=CCTV1&type=yy
