@@ -23,7 +23,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 海南卫视,https://migu.188766.xyz/?migutoken=90cfb3138f5f610eb00b3767a3911157&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d6f318be998d41ca8bfed5947cfdf41d&wsTime=1768139872
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=575ba7a4fdd1db202c9ef726aa9802c8&wsTime=1768183127
 吉林卫视,https://migu.188766.xyz/?migutoken=a0ff3339a4dd1d67b67a82af6c10e045&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
 辽宁卫视,https://migu.188766.xyz/?migutoken=4d2b1bebb31580efa304f7afb8f23da8&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
 内蒙古卫视,https://migu.188766.xyz/?migutoken=72a983275cbee3aa6d0001c2ab4847d3&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
@@ -40,4 +40,4 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 斗鱼电影HD1,https://www.goodiptv.club/douyu/4246519
 
 🕘️更新时间,#genre#
-2026-01-11 18:20:41,https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
+2026-01-12 06:19:23,https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
