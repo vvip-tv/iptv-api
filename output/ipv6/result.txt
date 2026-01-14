@@ -25,7 +25,7 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 海南卫视,https://migu.188766.xyz/?migutoken=e517670e2114fdeb3d550ab3944171bf&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=7e41d9a7579275d9c0c2b6b4cd62f122&wsTime=1768399262
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=02367d22ef0a48074e48265152f1887e&wsTime=1768442349
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 江西卫视,https://migu.188766.xyz/?migutoken=a161bee9c6f32be7bd22bdf697d7e6a6&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 内蒙古卫视,https://migu.188766.xyz/?migutoken=d9cbc0a0b983f5660517bbb7c3a76642&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
@@ -43,4 +43,4 @@ CCTV-15,https://migu.188766.xyz/?migutoken=795215860bcb0ae09d2275fda68e3645&id=C
 斗鱼电影HD4,https://live.ottiptv.cc/douyu/85894
 
 🕘️更新时间,#genre#
-2026-01-14 18:25:17,https://migu.188766.xyz/?migutoken=b7d7b6347997f6bd94d976ec03579798&id=CCTV2&type=yy
+2026-01-15 06:22:06,https://migu.188766.xyz/?migutoken=b7d7b6347997f6bd94d976ec03579798&id=CCTV2&type=yy
