@@ -235,7 +235,7 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 河南卫视,http://www.wmviv.com/iptv/bc2t.php?id=hnws
 河南卫视,http://120.211.62.180:8000/hls/40/index.m3u8
 河南卫视,http://112.27.235.94:8000/hls/37/index.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f1a7019630ebcde221b402a55905a374&wsTime=1768571939
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=1aedad8c18659939144fad228970bc64&wsTime=1768615115
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://migu.188766.xyz/?migutoken=a5e90e687b0771a3b383a9c2e0e3f5d9&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
 吉林卫视,http://sun135790.x3322.net:9901/tsfile/live/16033_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -387,4 +387,4 @@ CCTV-15,https://migu.188766.xyz/?migutoken=2cb9710f66c0867550f587728594bf23&id=C
 斗鱼电影HD4,https://live.ottiptv.cc/douyu/85894
 
 🕘️更新时间,#genre#
-2026-01-16 18:23:26,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+2026-01-17 06:20:50,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
