@@ -20,7 +20,7 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 海南卫视,https://migu.188766.xyz/?migutoken=ced453f47ec154b9fd0eeff1be94f8f1&id=hn_hnws&type=sz
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=00e5e8422cd170057b0d4a4a50b4a098&wsTime=1769781633
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=0eba9bc9b1761fa7a4826c82b9a2c170&wsTime=1769824746
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://migu.188766.xyz/?migutoken=d591a6e8d2acf8ed838727a07dd527e7&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
 吉林卫视,https://migu.188766.xyz/?migutoken=1b2d024a36b22e3cd54e32d8ee87f335&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
@@ -43,4 +43,4 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 斗鱼电影HD4,https://live.ottiptv.cc/douyu/85894
 
 🕘️更新时间,#genre#
-2026-01-30 18:34:04,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+2026-01-31 06:25:14,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
