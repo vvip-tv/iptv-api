@@ -18,6 +18,7 @@ CCTV-14,https://t.freetv.fun/live/cctv14shao-er-1.php
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-13.m3u8
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-6.m3u8
+黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 安徽卫视,https://t.freetv.fun/live/an-hui-wei-shi.m3u8
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-4.m3u8
@@ -28,7 +29,7 @@ CCTV-14,https://t.freetv.fun/live/cctv14shao-er-1.php
 贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-5.m3u8
 海南卫视,https://migu.188766.xyz/?migutoken=59109d5960f47cd8f37d7396eca303f5&id=hn_hnws&type=sz
 河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-6.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=d19388d763042bd6aa50cbcecf837769&wsTime=1769853623
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ac36355fdda35067529e8c029de5ab9f&wsTime=1769911121
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://migu.188766.xyz/?migutoken=0ed6088b32007d4ecf8bb6b0d6b23760&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.php
@@ -52,4 +53,4 @@ CCTV-14,https://t.freetv.fun/live/cctv14shao-er-1.php
 斗鱼电影HD4,https://live.ottiptv.cc/douyu/85894
 
 🕘️更新时间,#genre#
-2026-01-31 18:24:16,https://t.freetv.fun/live/cctv1-1.m3u8
+2026-02-01 06:22:32,https://t.freetv.fun/live/cctv1-1.m3u8
