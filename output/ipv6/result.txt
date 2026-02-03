@@ -44,7 +44,7 @@ CCTV-17,https://migu.188766.xyz/?migutoken=3251cae6dcf215c81e2803a07432a1ce&id=C
 甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-3.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 海南卫视,https://migu.188766.xyz/?migutoken=4d81e69f95546b140ceaf8f07db833bf&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=08fe37ac44667b4344d6ee7d872115df&wsTime=1770004802
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6d7b025aaaaedb8f4cb2c2219463913a&wsTime=1770127162
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.php
 河南卫视,https://migu.188766.xyz/?migutoken=32896bd0a6ff598a47a79e470a32b469&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
@@ -72,4 +72,4 @@ CCTV-15,https://migu.188766.xyz/?migutoken=9c8e4624aabfe88cd57fc895c01749f1&id=C
 斗鱼电影HD4,https://live.ottiptv.cc/douyu/85894
 
 🕘️更新时间,#genre#
-2026-02-02 18:43:43,https://migu.188766.xyz/?migutoken=f26813fac5f75091f2837c77184d3f97&id=CCTV1&type=yy
+2026-02-03 18:39:28,https://migu.188766.xyz/?migutoken=f26813fac5f75091f2837c77184d3f97&id=CCTV1&type=yy
