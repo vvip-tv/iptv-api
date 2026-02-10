@@ -20,6 +20,7 @@ CCTV-17,https://migu.188766.xyz/?migutoken=85946572d10cd8bbc263e1af1eaf5d9d&id=C
 
 📡卫视频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,https://migu.188766.xyz/?migutoken=6369cfb3a0c46f0edb64ec0ca5b95b8f&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-13.m3u8
 北京卫视,https://migu.188766.xyz/?migutoken=beb09411b89e61d8d1def2927900c734&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
@@ -57,4 +58,4 @@ CCTV-15,https://migu.188766.xyz/?migutoken=5dd673c87bc56a235d792da58a827be2&id=C
 斗鱼电影HD4,https://live.ottiptv.cc/douyu/85894
 
 🕘️更新时间,#genre#
-2026-02-10 18:53:59,https://migu.188766.xyz/?migutoken=3c1923f7bd54d01d9458aa6063df62ef&id=CCTV1&type=yy
+2026-02-11 06:39:31,https://migu.188766.xyz/?migutoken=3c1923f7bd54d01d9458aa6063df62ef&id=CCTV1&type=yy

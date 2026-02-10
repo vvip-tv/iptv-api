@@ -34,6 +34,8 @@ https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="📡卫视频道",香港卫视
 http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 https://migu.188766.xyz/?migutoken=6369cfb3a0c46f0edb64ec0ca5b95b8f&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 https://t.freetv.fun/live/hu-nan-wei-shi-13.m3u8
@@ -91,5 +93,5 @@ https://migu.188766.xyz/?migutoken=57c253e7e93e5aee5c864f503fb830dc&id=hn_ssws&t
 https://migu.188766.xyz/?migutoken=5dd673c87bc56a235d792da58a827be2&id=CCTV15&type=yy
 #EXTINF:-1 tvg-name="斗鱼电影HD4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/斗鱼电影HD4.png" group-title="🐟斗鱼影剧",斗鱼电影HD4
 https://live.ottiptv.cc/douyu/85894
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-10 18:53:59
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-11 06:39:31
 https://migu.188766.xyz/?migutoken=3c1923f7bd54d01d9458aa6063df62ef&id=CCTV1&type=yy
