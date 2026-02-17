@@ -1,55 +1,46 @@
 📺央视频道,#genre#
-CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
-CCTV-4,https://migu.188766.xyz/?migutoken=0de25eb3be861fafc6debb4d5bb72c79&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771769775&major_anchor_level=common&sign=98406f42e949db5477a402c85cbee007&t_id=037-20260215221614EEA56BB994BB42D25308-a6AVAz
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-CCTV-6,https://migu.188766.xyz/?migutoken=db35d24bc5cc61885aed52c341892971&id=CCTV6&type=yy
-CCTV-7,https://migu.188766.xyz/?migutoken=10167c059d116e1c254a4fa740d25de8&id=CCTV7&type=yy
-CCTV-9,https://migu.188766.xyz/?migutoken=1899b4ffb8bec2a690be09ca8120a1f8&id=CCTV9&type=yy
-CCTV-10,https://migu.188766.xyz/?migutoken=21687aa50e205ff7daa9d28adb22e08a&id=CCTV10&type=yy
-CCTV-11,https://migu.188766.xyz/?migutoken=86fad70c3a00571d22141b2c2f1836bd&id=CCTV11&type=yy
-CCTV-11,https://t.freetv.fun/live/cctv11-3.m3u8
-CCTV-12,https://migu.188766.xyz/?migutoken=a31bf75c5299250d0108b050e226425b&id=CCTV12&type=yy
+CCTV-8,https://migu.188766.xyz/?migutoken=3e45355756d8d0575bdc4ce8be9bd3ea&id=CCTV8&type=yy
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://t.freetv.fun/live/cctv13-21.m3u8
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-14,https://t.freetv.fun/live/cctv14-8.m3u8
-CCTV-15,https://migu.188766.xyz/?migutoken=e97152d6b0c6da1fb86d0c3d55473343&id=CCTV15&type=yy
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
-CCTV-17,https://t.freetv.fun/live/cctv17-3.m3u8
 
 💰央视付费频道,#genre#
-央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-湖北卫视,https://migu.188766.xyz/?migutoken=fd4c8f31188c7893dba3ead1308060c4&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
-黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-6.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+浙江卫视,https://migu.188766.xyz/?migutoken=432964447e07ee4cae3b31fbc2b6aa2c&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-13.m3u8
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-5.m3u8
-海南卫视,https://migu.188766.xyz/?migutoken=fd930d8e523840346556c58aa9daa599&id=hn_hnws&type=sz
-河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-6.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e6c5bf7c8f7a1bcb690115213d8ec407&wsTime=1771293654
+海南卫视,https://migu.188766.xyz/?migutoken=ce2542c16577b0b4239eea7927e08352&id=hn_hnws&type=sz
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c97fe70c3b2b602c647546b90b9ed179&wsTime=1771336726
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-河南卫视,https://migu.188766.xyz/?migutoken=6b17e583f35dcb03ee37df0b8a8dae30&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
-河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.php
-内蒙古卫视,https://migu.188766.xyz/?migutoken=f4363cd3dbcad9954ac1ce968e2dfc16&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-8.m3u8
+河南卫视,https://migu.188766.xyz/?migutoken=d44dc4af0cfc78b0e229df047ca37475&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
+江苏卫视,https://migu.188766.xyz/?migutoken=b04108956dbbcbb435f41d0293747be2&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&line=3
+内蒙古卫视,https://migu.188766.xyz/?migutoken=2d07a412d9a1a4c67a2c292699d290a3&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
 山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
-陕西卫视,https://migu.188766.xyz/?migutoken=f939be47edef62391f6933f024dbe08f&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-5.m3u8
+陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-1.m3u8
+深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-6.m3u8
 三沙卫视,https://migu.188766.xyz/?migutoken=01cffeaa811d92762c83a9b8260f8553&id=hn_ssws&type=sz
 云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-2.m3u8
 
 🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
-CCTV-15,https://migu.188766.xyz/?migutoken=e97152d6b0c6da1fb86d0c3d55473343&id=CCTV15&type=yy
+斗鱼音乐MV频道,https://goodiptv.club/douyu/3870925
+
+🐟斗鱼影剧,#genre#
+斗鱼电影HD4,https://goodiptv.club/douyu/85894
 
 🕘️更新时间,#genre#
-2026-02-17 06:28:16,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771372284&major_anchor_level=common&sign=6f90250717a66a61060dfac48f5152de&t_id=037-20260211075123D0C67CD1A4FC77163F38-si39gG
+2026-02-17 18:43:41,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771769775&major_anchor_level=common&sign=98406f42e949db5477a402c85cbee007&t_id=037-20260215221614EEA56BB994BB42D25308-a6AVAz
